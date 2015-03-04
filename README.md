@@ -1,5 +1,5 @@
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://hub.jazz.net/git/lhayward/Hello.Bluemix.World.(html))
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://hub.jazz.net/git/lhayward/Hello.Bluemix.World.%28html%29)
 
 # Static
 
