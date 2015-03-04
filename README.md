@@ -1,9 +1,12 @@
+# Running version of the app
+http://helloworld-html.mybluemix.net
 
+
+
+# Deploy the app to your space in Bluemix
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://hub.jazz.net/git/lhayward/Hello.Bluemix.World.%28html%29)
 
-# Static
+# What is this app?
 
-Simplest way to set up a static website.
+This is a fabulously basic Hello World app.  The app has the minimum code required to create a webpage that deploys to Bluemix.  The app leverages a [static buildpack]((https://github.com/cloudfoundry-incubator/staticfile-buildpack).
 
-For more information about the buildpack, see 
-[this GitHub page](https://github.com/cloudfoundry-incubator/staticfile-buildpack).
