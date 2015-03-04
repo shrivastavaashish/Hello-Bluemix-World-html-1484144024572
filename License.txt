@@ -1,1 +1,1 @@
-<Replace this text with the license you've chosen for your project.>
+EDL 1.0 -- https://eclipse.org/org/documents/edl-v10.php

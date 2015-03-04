@@ -1,0 +1,5 @@
+---
+applications:
+- buildpack: https://github.com/cloudfoundry-community/staticfile-buildpack.git
+  host: helloworld-html
+  name: helloworld-html
