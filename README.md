@@ -8,5 +8,5 @@ http://helloworld-html.mybluemix.net
 
 # What is this app?
 
-This is a fabulously basic Hello World app.  The app has the minimum code required to create a webpage that deploys to Bluemix.  The app leverages a [static buildpack]((https://github.com/cloudfoundry-incubator/staticfile-buildpack).
+This is a fabulously basic Hello World app.  The app has the minimum code required to create a webpage that deploys to Bluemix.  The app leverages a [static buildpack](https://github.com/cloudfoundry-incubator/staticfile-buildpack).
 
