@@ -1,5 +1,6 @@
 ---
 applications:
 - buildpack: https://github.com/cloudfoundry-community/staticfile-buildpack.git
-  host: helloworld-html
+  host: helloworld-html-${random-word}
   name: helloworld-html
+  memory: 64M
